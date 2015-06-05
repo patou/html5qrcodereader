@@ -59,7 +59,7 @@
 #button2 {
   display: none; }
 
-#example video {
+.boxWrapper video {
   max-width: 300px;
   height: auto;
   float: left; }
